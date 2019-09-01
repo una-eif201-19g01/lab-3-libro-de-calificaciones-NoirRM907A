@@ -24,6 +24,6 @@ class LibroCalificaciones {
 public:
 
 };
-//////////HJGJGHGHGHGHGJHH
+//////////HJGJGHGHGHGHGJHHff
 
 #endif //CALIFICACIONES_LIBROCALIFICACIONES_H
